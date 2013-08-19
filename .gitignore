@@ -2,5 +2,6 @@
 *.tar.xz.sig
 *.tar.gz
 *.swp
+*.log
 pkg/
 src/
